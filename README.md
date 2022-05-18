@@ -1,1 +1,1 @@
-# Jogos_de_terminal
+# JOGO DE ADIVINHAÇÃO E JOGO DA FORCA
